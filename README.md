@@ -1,1 +1,1 @@
-#Redux and immutable objects - Demo 
+#Redux todo list app
