@@ -40,7 +40,8 @@
     "deep-freeze": "0.0.1",
     "expect": "^1.13.4",
     "imagemin-pngquant": "^4.1.0",
-    "json-loader": "^0.5.4"
+    "json-loader": "^0.5.4",
+    "react-redux": "^4.0.5"
   },
   "eslintConfig": {
     "parser": "babel-eslint",
